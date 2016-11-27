@@ -67,7 +67,12 @@ margin:4em 0;
 padding-bottom:2em;
 }
 .logo{
-float:left;
+float:right;
+margin-top: 10px;
+margin-left: 700px;
+top:0;
+position: absolute;
+z-index:1000000;
 }
 .social-icons{
 float:right;
@@ -79,7 +84,7 @@ display:inline-block;
 .social-icons li a span{
 width: 37px;
 height: 35px;
-background:url('http://p.w3layouts.com/demos/career/web/images/splits.png') no-repeat 0px 0px;
+background:url('https://p.w3layouts.com/demos/career/web/images/splits.png') no-repeat 0px 0px;
 display:block;
 margin-left:10px;
 }
@@ -229,7 +234,7 @@ outline: none;
 width: 87%;
 }
 .search input[type="submit"]{
-background: url('http://p.w3layouts.com/demos/career/web/images/splits.png')no-repeat -82px -57px;
+background: url('https://p.w3layouts.com/demos/career/web/images/splits.png')no-repeat -82px -57px;
 width: 30px;
 height: 30px;
 border: none;
@@ -249,7 +254,7 @@ padding:4% 3% 4% 8%;
 display:inline-block;
 }
 .right-grid ul li span{
-background: url('http://p.w3layouts.com/demos/career/web/images//splits.png')no-repeat -15px -52px;
+background: url('https://p.w3layouts.com/demos/career/web/images//splits.png')no-repeat -15px -52px;
 width: 30px;
 height: 30px;
 display:block;
@@ -286,7 +291,7 @@ margin-top:2em;
 display:inline-block;
 }
 .right-grid2 ul li span{
-background: url('http://p.w3layouts.com/demos/career/web/images//splits.png') no-repeat -45px -52px;
+background: url('https://p.w3layouts.com/demos/career/web/images//splits.png') no-repeat -45px -52px;
 width: 30px;
 height: 30px;
 display:block;
@@ -331,7 +336,7 @@ display:inline-block;
 color:#000000;
 }
 .p1-info a span{
-background: url('http://p.w3layouts.com/demos/career/web/images/splits.png') no-repeat 0px -4px;
+background: url('https://p.w3layouts.com/demos/career/web/images/splits.png') no-repeat 0px -4px;
 width: 16px;
 height: 10px;
 display: inline-block;
@@ -387,7 +392,7 @@ color:#fff;
 	width:13px;
 	height:10px;
 	display:inline-block;
-	background:url(http://p.w3layouts.com/demos/career/web/images/arrow.png) no-repeat 0px 0px;
+	background:url(https://p.w3layouts.com/demos/career/web/images/arrow.png) no-repeat 0px 0px;
 	margin-right:10px;
 }
 .middle ul li a.mid{
@@ -544,7 +549,7 @@ font-size:0.85em;
 margin:10px 0;
 }
 .service-nav li {
-list-style-image: url(http://p.w3layouts.com/demos/career/web/images/icon2.png);
+list-style-image: url(https://p.w3layouts.com/demos/career/web/images/icon2.png);
 margin-left: 20px;
 margin-bottom: 10px;
 }
@@ -589,7 +594,7 @@ border:none;
 width: 95%;
 }
 .job input[type="submit"]{
-background: url('http://p.w3layouts.com/demos/career/web/images/splits.png')no-repeat -82px -55px;
+background: url('https://p.w3layouts.com/demos/career/web/images/splits.png')no-repeat -82px -55px;
 width: 30px;
 height: 30px;
 border: none;
@@ -1226,7 +1231,7 @@ min-height: 270px;
 }
 @media (max-width: 640px){
 span.menu:before {
-	content: url(http://p.w3layouts.com/demos/career/web/images/nav.png);
+	content: url(https://p.w3layouts.com/demos/career/web/images/nav.png);
 	cursor: pointer;
 }
 .top-menu {
@@ -1565,7 +1570,7 @@ width: 84%;
 .social-icons li a span {
 width: 28px;
 height: 29px;
-background: url('http://p.w3layouts.com/demos/career/web/images/splits.png') no-repeat 0px 0px;
+background: url('https://p.w3layouts.com/demos/career/web/images/splits.png') no-repeat 0px 0px;
 background-size: 621%;
 margin-left: 2px;
 }

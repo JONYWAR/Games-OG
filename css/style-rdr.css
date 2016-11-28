@@ -916,7 +916,7 @@ margin-left: 4px;
 }
 .content-left-top p {
 overflow: hidden;
-
+height: 67px;
 }
 .content-left-top {
 padding: 6% 7% 4% 4%;
@@ -1291,6 +1291,7 @@ font-size: 1em;
 font-size: 1.1em;
 }
 .content-left-top p {
+height: 43px;
 }
 .content-left-top a {
 margin-top: 1.5em;
